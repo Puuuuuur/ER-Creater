@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+frontend/node_modules/
+frontend/dist/
+.server.log
+.server.pid
+.env
+.env.*
+!.env.example

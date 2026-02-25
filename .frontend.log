@@ -1,0 +1,87 @@
+
+> frontend@0.0.0 dev
+> vite --host 127.0.0.1 --port 5900
+
+
+  VITE v7.3.1  ready in 332 ms
+
+  ➜  Local:   http://127.0.0.1:5900/
+1:09:02 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+1:14:27 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+1:14:34 PM [vite] (client) hmr update /src/style.css
+1:17:22 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+1:24:17 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+1:31:05 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+1:31:06 PM [vite] (client) ✨ new dependencies optimized: svg-pan-zoom
+1:31:06 PM [vite] (client) ✨ optimized dependencies changed. reloading
+1:31:21 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+1:35:33 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+1:40:38 PM [vite] (client) hmr update /src/App.vue
+1:40:51 PM [vite] (client) hmr update /src/App.vue
+1:40:58 PM [vite] (client) hmr update /src/App.vue
+1:41:05 PM [vite] (client) hmr update /src/App.vue
+1:41:22 PM [vite] (client) hmr update /src/App.vue
+1:41:53 PM [vite] (client) hmr update /src/App.vue
+1:42:00 PM [vite] (client) hmr update /src/App.vue
+1:43:42 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+1:44:20 PM [vite] (client) hmr update /src/components/StylePanel.vue
+1:44:34 PM [vite] (client) hmr update /src/style.css
+1:46:06 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+1:49:32 PM [vite] (client) hmr update /src/App.vue
+1:50:23 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+1:56:19 PM [vite] (client) hmr update /src/App.vue
+1:56:25 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+1:59:31 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:05:06 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:08:15 PM [vite] (client) hmr update /src/App.vue
+2:09:53 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:10:48 PM [vite] (client) hmr update /src/components/StylePanel.vue
+2:12:32 PM [vite] (client) hmr update /src/components/StylePanel.vue
+2:12:39 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:12:50 PM [vite] (client) hmr update /src/style.css
+2:16:29 PM [vite] (client) hmr update /src/components/StylePanel.vue
+2:16:38 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:16:51 PM [vite] (client) hmr update /src/style.css
+2:18:42 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:21:07 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:24:47 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:27:29 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:33:05 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:37:11 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:39:16 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:41:45 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:46:08 PM [vite] (client) hmr update /src/App.vue
+2:46:12 PM [vite] (client) hmr update /src/style.css
+2:46:21 PM [vite] (client) hmr update /src/App.vue
+2:49:53 PM [vite] (client) hmr update /src/App.vue
+2:52:07 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:56:16 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+2:59:46 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+3:02:33 PM [vite] (client) hmr update /src/App.vue
+3:03:46 PM [vite] (client) hmr update /src/App.vue
+3:11:17 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+3:11:30 PM [vite] (client) hmr update /src/style.css
+3:14:30 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+3:32:38 PM [vite] (client) hmr update /src/App.vue
+3:32:51 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+3:33:03 PM [vite] (client) hmr update /src/components/StylePanel.vue
+3:34:58 PM [vite] (client) hmr update /src/style.css
+3:35:44 PM [vite] (client) hmr update /src/style.css
+3:39:46 PM [vite] (client) hmr update /src/App.vue
+3:40:17 PM [vite] (client) hmr update /src/App.vue
+3:41:45 PM [vite] (client) hmr update /src/App.vue
+3:41:59 PM [vite] (client) hmr update /src/style.css
+3:45:09 PM [vite] (client) hmr update /src/App.vue
+3:45:39 PM [vite] (client) hmr update /src/style.css
+3:50:33 PM [vite] (client) hmr update /src/style.css
+3:50:33 PM [vite] (client) hmr update /src/App.vue
+3:50:54 PM [vite] (client) hmr update /src/App.vue
+3:54:09 PM [vite] (client) hmr update /src/App.vue
+3:54:59 PM [vite] (client) hmr update /src/components/DiagramViewer.vue
+3:55:10 PM [vite] (client) hmr update /src/style.css
+3:56:19 PM [vite] (client) hmr update /src/style.css
+4:03:42 PM [vite] (client) hmr update /src/App.vue
+4:04:40 PM [vite] (client) hmr update /src/style.css
+4:04:52 PM [vite] (client) hmr update /src/style.css
+4:07:19 PM [vite] (client) hmr update /src/style.css
+4:13:29 PM [vite] (client) hmr update /src/components/SupportChat.vue
